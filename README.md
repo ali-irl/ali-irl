@@ -1,6 +1,6 @@
 [ReadMe.md](https://github.com/user-attachments/files/33928454/ReadMe.md)
 # 💫 About Me:
-🔭 I’m currently working on:<br><br>Full-stack web applications, REST APIs, and autonomous AI agents using tool-calling workflows.<br><br>👯 I’m looking to collaborate on:<br><br>Full-stack projects,Open-source AI/LLM tools, and health-tech applications.<br><br>🌱 I’m currently learning:<br><br>Advanced Azure cloud architecture, microservices deployment on Kubernetes.<br><br>💬 Ask me about:<br><br>Python,C++,Java,  Spring Boot, React, Flutter, SQL/PostgreSQL, Docker, and building deterministic AI models.<br><br>⚡ Fun fact:<br><br>I built an AI model during the NASA Space Apps Challenge to detect exoplanets!
+🔭 I’m currently working on:<br><br>Full-stack web applications, REST APIs, and AI integration and tool-calling capabilities.".<br><br>👯 I’m looking to collaborate on:<br><br>Full-stack projects,Open-source AI/LLM tools, and health-tech applications.<br><br>🌱 I’m currently learning:<br><br>Advanced Azure cloud architecture, microservices deployment on Kubernetes.<br><br>💬 Ask me about:<br><br>Python,C++,Java,  Spring Boot, React, Flutter, SQL/PostgreSQL, Docker, and building deterministic AI models.<br><br>⚡ Fun fact:<br><br>I built an AI model during the NASA Space Apps Challenge to detect exoplanets!
 
 
 ## 🌐 Socials:
