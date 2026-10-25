@@ -21,6 +21,4 @@
 
 ![](https://github-contributor-stats.vercel.app/api?username=ali-irl&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
----
-[![](https://komarev.com/ghpvc/?username=ali-irl&icon=0&color=0)](https://visitcount.itsvg.in)
-
+---[![](https://komarev.com/ghpvc/?username=ali-irl&color=brightgreen)](https://visitcount.itsvg.in)
